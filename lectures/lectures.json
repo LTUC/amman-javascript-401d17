@@ -1,0 +1,297 @@
+{
+  "course-code": "seattle-code-javascript-401d49",
+  "lectures": {
+    "module-01": {
+      "class-01a": {
+        "title": "Course Introduction",
+        "link": "https://zoom.us/rec/share/-IwmaC0Oks4Zprt5DaW93cJQI8v6UNLCo4reZT5k2-VzWvfQjOVCbGOld2L26nbo.tUXX2UjCczpUM15n?startTime=1669654835000",
+        "date": "1669654835000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-01b": {
+        "title": "Node Ecosystem, TDD, CI/CD",
+        "link": "https://zoom.us/rec/share/G8Ol_AqvyA0fYUcq1H_clH4rvVcE-3nu2_WK2zuBaYOIoB5MjhyKBt91-L8AdTxb.t59ZWcTpoSAfBwDN",
+        "date": "1669672885000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-02": {
+        "title": "Express",
+        "link": "https://zoom.us/rec/share/36iqTNcICbR2RkGsU67veHExdwa2lL7KvoszQbXSv4BV0mWvTP23n_buJ_eo7t24.PFzIG7olX7WfPECO?startTime=1669742455000",
+        "date": "1669742455000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-03": {
+        "title": "Express REST API",
+        "link": "https://zoom.us/rec/share/ZvL32fVC87TF5ScYWqkhRiFqWp2OMrxKNdq3FPmiK2mo6Ogay2HFBGdU5nJ0848.Z0ZIsXVnVrVXmNFq?startTime=1669827607000",
+        "date": "1669827607000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-04": {
+        "title": "Data Modeling",
+        "link": "https://zoom.us/rec/share/X55KQ-ysFJujN4IaCf_yM6iFNvH8AecoPUX06WqlpKFuhtgvn2iMNMAYwP94Fnul.wTD0_GGd0iHME0Wn?startTime=1669914000000",
+        "date": "1669914000000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-05-career-coaching": {
+        "title": "Resume Workship",
+        "link": "https://zoom.us/rec/share/KKgZUCJV0dnQTWqfCt1z9msZgDIXoGxLPFkvV189lmcFv88jvpJmNRdziBGPlcog.U2gy7mJCB48hpHOf?startTime=1670000560000",
+        "date": "1670000560000",
+        "instructor": "JB Tellez"
+      },
+      "class-05-dsa": {
+        "title": "Linked Lists",
+        "link": "https://zoom.us/rec/share/eCmGuL96KIO_aHqiG4gwTkZYJDNh2-hkk8TKq5WnnN-iF8xmNnXOTII7gLtpRkxh.IZJq4N488uk8FOiF?startTime=1670018364000",
+        "date": "1670018364000",
+        "instructor": "Ryan Gallaway"
+      }
+    },
+    "module-02": {
+      "class-06": {
+        "title": "Authentication",
+        "link": "https://zoom.us/rec/share/Hu5lc31WJJQtcbJDSezJCu6p6JHFpCkzzytpgDKtbGU7HETwfxlybg43GtnvfHhz.5qU3R7hwKfLVWIO2?startTime=1670260504000",
+        "date": "1670260504000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-07": {
+        "title": "Bearer Authorization",
+        "link": "https://zoom.us/rec/share/GigmEfaGaqXwKSEvAxWSTcebHCLgO0YSFaD2jK4P7jb_LhNqaa8ubKb8IyHL8dC3.E7Brkyi7tNn7AsbG?startTime=1670346016000",
+        "date": "1670346016000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-08": {
+        "title": "Access Control (ACL)",
+        "link": "https://zoom.us/rec/share/E_iK2kTM5BtPIeKCSHQltGW51dwlfzHTh-yA8FbhpaeqQkPIsYjpgjcaJ5dDbM-w.RORP8JrYItXMqYdi?startTime=1670432421000",
+        "date": "1670432421000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-09": {
+        "title": "Auth Module Final Project",
+        "link": "https://zoom.us/rec/share/QANJO8nWAdT_yW-rn6RM0ZHs1uJcQbXL34YGjU7eyWarKDd_aUdeEuS02FUeCBsD.v0XWkQTe1EDyNhnP?startTime=1670518868000",
+        "date": "1670518868000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-10-career-coaching": {
+        "title": "Personal Pitch Workshop",
+        "link": "https://zoom.us/rec/share/AqxKaE-xcRYRuzTYYhpNzacRNMuJvLM6QDfxl7Dg_9dbOpqaub2OWPDwT1ykdTXi.p6MNntVdtJKN_-kO?startTime=1670623314000",
+        "date": "1670623314000",
+        "instructor": "Dr Robin Apparicio"
+      },
+      "class-10-dsa": {
+        "title": "Stacks & Queues",
+        "link": "https://zoom.us/rec/share/eHcS0gRAvP58zvoC3-xQc-BZJNxCxnUNY6YhrSJlV3-mGNuV-Izfj6x1GiQcP2xN.RBLAKcUtLldmcS8u?startTime=1670605268000",
+        "date": "1670605268000",
+        "instructor": "JB Tellez"
+      }
+    },
+    "module-03": {
+      "class-11": {
+        "title": "Event Driven Applications",
+        "link": "https://zoom.us/rec/share/-1yv8Ubdo-eZXTqbVXhPHdh8k5iN96eTFf4v3RArevA9aio0Hhdvzc5-T_BoIrkZ.jeb4DoV-LMDKEh_s?startTime=1670864412000",
+        "date": "1670864412000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-12": {
+        "title": "Socket.io",
+        "link": "https://zoom.us/rec/share/l5voAnPwzOOYQChVKxdL2hHghTT8Yarl9FPUz_KxOIf2rgARo9elHeBXHbogh1Hg.hGasU0jG3PrCHFAC?startTime=1670950806000",
+        "date": "1670950806000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-13": {
+        "title": "Message Queues",
+        "link": "https://zoom.us/rec/share/Ot9RxOUA58vKzEgbzfn5oIfRN5NT1BmwKRjo2ND-qiRhONB3RZFYzqJG66fI0BtJ.8ZvAXXOPoc0Pjiac?startTime=1671037286000",
+        "date": "1671037286000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-14": {
+        "title": "Realtime Module Final Project",
+        "link": "https://zoom.us/rec/share/XzHZZjJemIA_6eWymuwQUrWV4A7FvwDZOZNAk2sWNtSsZoCo7BlRZXZNZOqSH8D9.gQolrlWFHexoldzO?startTime=1671128265000",
+        "date": "1671128265000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-15-career-coaching": {
+        "title": "Job Search Workshop",
+        "link": "https://zoom.us/rec/share/V-Y-k-EAK24j6gDUotTLPUjPAq3U_7ivPTyV3KUCP4Hi-wca_FrAOkQXuuv_hjQx.cKG7tSvKl780sEKq?startTime=1671210036000",
+        "date": "1671210036000",
+        "instructor": "John Cokos"
+      },
+      "class-15-dsa": {
+        "title": "Trees",
+        "link": "https://zoom.us/rec/share/0_5jjjPbVqdeHfy401fCK5sEhKHEP43aDVd-9KfUmwPNW_CTrqRWgLq-FUA1CjNT.YVda5MMJKLtFZs0v?startTime=1671228113000",
+        "date": "1671228113000",
+        "instructor": "Ryan Gallaway"
+      }
+    },
+    "module-04": {
+      "class-16": {
+        "title": "AWS: Cloud Servers",
+        "link": "https://zoom.us/rec/share/gExiPc9VNOFLOopQSokUOu4VWqKO3UffcSVIEjzBG4pU87G-9GQFGB0DLfIi5xbb.BELTs1tIQ42RWkA2?startTime=1671469269000",
+        "date": "1671469269000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-17": {
+        "title": "AWS: S3 and Lambda",
+        "link": "https://zoom.us/rec/share/hZ43rIBdOWg2YOKqH2IboTufCtKgCgoOTEHIlgRX62uOgk6z1sPhWgOm2XPHDrOX.ok0rBFVBUfDL-4LM?startTime=1671555723000",
+        "date": "1671555723000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-18": {
+        "title": "AWS: API, Dynamo and Lambda",
+        "link": "https://zoom.us/rec/share/NMIh5XJzAwTQSkKCUEf_LsR1arrxDejWfcKhp_r9AtyZQLiWN8MB9jEuTshiYcbF.zlu0jN9cQHJotRM6?startTime=1671642153000",
+        "date": "1671642153000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-19": {
+        "title": "AWS: Events",
+        "link": "https://zoom.us/rec/share/0F_uyqAYc8mtzTFciD4FEP8-uYrwBpW8cfaZZDILUq8oAVpn9Qq1ykDJF-Sfwlkv.xhmhsPWAbueEYLbo?startTime=1665676848000",
+        "date": "1665676848000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-20": {
+        "title": "Mid Term Projects Kickoff",
+        "link": "https://zoom.us/rec/share/klKKDKO4eOX-an1Ik_JLc10ImnctpCuDGdLsGn_8PKwBBSdrOUW4gtpHJJkNK_aY.fxK6ItTTF2vUZ7N4?startTime=1665763208000",
+        "date": "1665763208000",
+        "instructor": "Ryan Gallaway"
+      }
+    },
+    "module-06": {
+      "class-26": {
+        "title": "Component Based UI",
+        "link": "https://zoom.us/rec/share/OJsoFtExrzYkZ04kEePWnimVaw8-zrZlPNvpOlm8k1w_7YNW_4BinZZgslw1kNLQ.1EKmRROksytawXXb?startTime=1672678807000",
+        "date": "1672678807000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-27": {
+        "title": "useState() Hook",
+        "link": "https://zoom.us/rec/share/ayFiTpYH7p_DXXkUKxI-6p7_WdeRTdjUFrZt1dq8iICvfw_sEf4JbzzVwrI1I9lj.sA6hq_ky4ciaXC3G?startTime=1672765215000",
+        "date": "1672765215000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-28": {
+        "title": "Component Lifecycle / useEffect() Hook",
+        "link": "https://zoom.us/rec/share/GcSMO70ZmAEuCFVT7HCO6rIpaexlWDqi3xXx38LOnCyAsva621zx76GMX-KP8BZO.w6ZKcnWLw9hrjfS1?startTime=1672851616000",
+        "date": "1672851616000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-29": {
+        "title": "Advanced State with Reducers",
+        "link": "https://zoom.us/rec/share/GyCYDmnPBpzrZAQJhM8EfuGMWnP1kx_d6lz-eDaZhN6IZ-aG0tVqiaMlFzRnhvng.qpYRcO6kf2fiXjOR?startTime=1672937986000",
+        "date": "1672937986000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-30-career-coaching": {
+        "title": "Behavioral Interview Workshop",
+        "link": "https://zoom.us/rec/share/LRVJjFzU3-zT385PXB7FMs7kp3mHPcUho_WKWMyPtnxigU-4vg1GlteOqNaK2RgC.saPkMNDKF56A58LW?startTime=1673042599000",
+        "date": "1673042599000",
+        "instructor": "Dr Robin Apparicio"
+      },
+      "class-30-dsa": {
+        "title": "Hash Tables",
+        "link": "https://zoom.us/rec/share/Nd-I_92ynaaeY79yXQwwlXZTPUDGn9CaPGx9gTYAb9nusEqPsuUO0Uihm6wy9keb.Q4cOj9FFnnbODUve?startTime=1673024467000",
+        "date": "1673024467000",
+        "instructor": "Ryan Gallaway"
+      }
+    },
+    "module-07": {
+      "class-31": {
+        "title": "Context API",
+        "link": "https://zoom.us/rec/share/NGVBswr9NIn2qFSu9Er7wQt296E8Pdz72GxQR8U60gkR-UM_sYbFrAdxRx9S_sKF.Dvl1E8FJjnlXwx-Y?startTime=1673283629000",
+        "date": "1673283629000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-32": {
+        "title": "Context API - Behaviors",
+        "link": "https://zoom.us/rec/share/52mFYIBirISBENoIE0dIizI_lB26OmhOb4gXtdtKHiDLdsoZTzlb60aqHw_ozbmz.7HpQ-QwWBtxmfZA9?startTime=1673370021000",
+        "date": "1673370021000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-33": {
+        "title": "Login and Auth",
+        "link": "https://zoom.us/rec/share/5ZIJ1ipse6fmT8Xnm_1TyIP5t0-SyhAi3RN3gqW2MaAm5jDMr4QQchmQicdf6Il6.f3qMxMTAAu-4R2cr?startTime=1673456430000",
+        "date": "1673456430000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-34": {
+        "title": "API Integration",
+        "link": "https://zoom.us/rec/share/p2k2MrDf_IDF4DYPXxhhx5-BzbMvDzkpV9JVmvtBgdNF_5bP790S8C1tIWAQZYpS.M9zaNx-mhHgIcFBX?startTime=1673542822000",
+        "date": "1673542822000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-35-career-coaching": {
+        "title": "Technical Interview Workshop",
+        "link": "https://zoom.us/rec/share/TqRgmYhNFxU2skeF1j58nEsHf-480VDjfrSaPJilgG99UFL9P8bPP62I28KUEn0D.gGwQuyA5wk7MNsAm?startTime=1673647215000",
+        "date": "1673647215000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-35-dsa": {
+        "title": "Graphs",
+        "link": "https://zoom.us/rec/share/SgNcVpNPfp-tm5JZ5rvF3j4h1LdCGvic18lG8eSnS3-ZCarzq_m0trKHU0rQtSpN.VaMTg3MN_Ojm2iHm?startTime=1673630014000",
+        "date": "1673630014000",
+        "instructor": "Ryan Gallaway"
+      }
+    },
+    "module-08": {
+      "class-36": {
+        "title": "",
+        "link": "https://zoom.us/rec/share/SJFS2AY1JfjwH5pmwpV148J-mjHN7Agb9n9XeI_Kv_mPXcPln8vjx1DTEtULSgZJ.j7crkBEmbGMviXbO?startTime=1673888692000",
+        "date": "1673888692000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-37": {
+        "title": "",
+        "link": "https://zoom.us/rec/share/rD-kHzI78UNCi42wUx-g7GcBFdtEurDxjcxpsG_cDzzfIXw9mhWz1zS0qhzSaOVA.2eVXVCoLaMR7CWSK?startTime=1673974835000",
+        "date": "1673974835000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-38": {
+        "title": "Redux - Asynchronous Actions",
+        "link": "https://zoom.us/rec/share/49wGG--cwbzcyPYzDOICA8A_7k78-a5BXhPU9X8jM6VqhLuoSukXvE4kVuxwsqI6.j7qI4VHdhQyXT6Kc?startTime=1674061317000",
+        "date": "1674061317000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-39": {
+        "title": "Redux - Additional Topics",
+        "link": "https://zoom.us/rec/share/FFJqzbdOeegJn612KDp-UF5kkbRuRp9LNOsVBbSl1pgalB2cYEP60NmbV8YsMmXb.VzGb5A1WvOiIKXOi?startTime=1674147699000",
+        "date": "1674147699000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-40-coaching": {
+        "title": "Personal Presentations",
+        "link": "https://zoom.us/rec/share/KeFatZl6pydnB76HQF366BhGubPZwCBDAkEDr9cLZ61xC8Kcfz7DT3yb2Tt-gCLk.LOILrqfZBbDtxq49?startTime=1674234109000",
+        "date": "1674234109000",
+        "instructor": "JB Tellez"
+      }
+    },
+    "module-09": {
+      "class-41": {
+        "title": "React Native",
+        "link": "https://zoom.us/rec/share/ylRTx6N_OGN56wJrd9N4tBSsNttxN3pk5_uDRomP7whztUIeArml9IbU-aBwCX-n.UxFwaQxJbFwnE00T?startTime=1674493253000",
+        "date": "1674493253000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-42": {
+        "title": "React Native - Advanced",
+        "link": "https://zoom.us/rec/share/YssSZCV1Swnd0w1LvbPATPOaSbiKbAmBN_EIjm9Kx8WUXkGsXnqFLZEzniF1T6U.5J-jxOcTWkCBdNDp?startTime=1674579798000",
+        "date": "1674579798000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-43": {
+        "title": "Gatsby, next.js, and other JS Frameworks",
+        "link": "https://zoom.us/rec/share/BSk03SlfDdfDhv-1dHawEK1Q04aBY-ZaoLZmcV7Si-2WkSMwQ75K1w88pmhHE3in.FkHwugBV8GC3dM1H?startTime=1674666022000",
+        "date": "1674666022000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-44": {
+        "title": "Javascript Frameworks",
+        "link": "https://zoom.us/rec/share/yKjlK6E961wyABbiIKueupVIyjWUXsAQLpCTT6-Yju7QZQT5FEY6rw-hrHKm7KXC.g1SLh67eCx0EHriv?startTime=1674752572000",
+        "date": "1674752572000",
+        "instructor": "Ryan Gallaway"
+      },
+      "class-45": {
+        "title": "Final Projects",
+        "link": "https://zoom.us/rec/share/wl4kg4hyFfvhGc0UtWkXjR4hxYUZKGnd9Au0L8xzcnU9XO8KT2YNPmyVSUy5Oi8.606X6UyIynlSMUg9?startTime=1674838827000",
+        "date": "1667328823268",
+        "instructor": "Ryan Gallaway"
+      }
+    }
+  }
+}
