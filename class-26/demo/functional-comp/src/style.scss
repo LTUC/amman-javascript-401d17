@@ -1,0 +1,25 @@
+$mainClr: #FFC436;
+
+header {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+    nav {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+
+        a {
+            color: $mainClr;
+        }
+    }
+}
+
+/* header
+  height: 100px
+  display: flex
+  justify-content: space-between
+
+  nav
+    a */
